@@ -381,7 +381,7 @@ footer:
     # 启用 Footer HTML 注入功能
     enable: true
     # 自定义 HTML 内容，用于添加备案号等信息
-    customHtml: '<a href="https://beian.miit.gov.cn/" target="_blank" style="color: inherit; text-decoration: none;">闽ICP备2026040878号-1</a> <br> <span style="display: inline-flex; align-items: center; justify-content: center;"><a href="https://beian.mps.gov.cn/" target="_blank" style="color: inherit; text-decoration: none; display: flex; align-items: center;"><img src="/assets/images/Beian1.png" style="height: 1.2em; margin-right: 6px;">闽公网安备35032202000322号</a></span> <br> © 2026 陌生人. All Rights Reserved.'
+    customHtml:  '<a href="https://beian.miit.gov.cn/" target="_blank" style="color: inherit; text-decoration: none;">闽ICP备2026040878号-1</a> <br> <a href="https://beian.mps.gov.cn/" target="_blank" style="color: inherit; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;"><img src="/assets/images/Beian1.png" style="height: 1.2em;">闽公网安备35032202000322号</a>'
 
 # 粒子特效配置
 particle:
